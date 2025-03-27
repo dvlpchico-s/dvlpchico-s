@@ -3,7 +3,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/vitor-fariasprogram/)
 
-[![VITOR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=dvlpchico-s&show_icons=true&theme=dracula)]
+[![VITOR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=dvlpchico-s&show_icons=true&theme=dracula)
 
 
 ### Technology for everyday use:
